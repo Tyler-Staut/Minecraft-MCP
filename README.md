@@ -1,6 +1,6 @@
 # Minecraft MCP Server (Cloudflare Worker)
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Tyler-Staut/Minecraft-MCP/ci.yml?branch=main)](https://github.com/Tyler-Staut/Minecraft-MCP/actions)
+[![CI](https://github.com/Tyler-Staut/Minecraft-MCP/actions/workflows/ci.yml/badge.svg)](https://github.com/Tyler-Staut/Minecraft-MCP/actions/workflows/ci.yml)
 
 Easily deploy a remote Model Context Protocol (MCP) server for Minecraft Java server status queries, running on Cloudflare Workers—no authentication required.
 
